@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class twosum {
 
 	public static void main(String[] args) {
-		
+		//given array get targeted result number index
 		
 		int[] nums = {2, 8, 7, 15};
         int target = 9;
